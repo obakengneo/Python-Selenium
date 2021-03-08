@@ -1,0 +1,2395 @@
+2021-03-06 20:27:36,860 - INFO - ********Test_001_Login********
+2021-03-06 20:27:36,860 - INFO - ********Verifying Home Page Title********
+2021-03-06 20:27:40,122 - INFO - ********Home Page Title test Passed********
+2021-03-06 20:27:41,450 - INFO - ********Verifying Login test********
+2021-03-06 20:27:46,867 - INFO - ********Login Test passed********
+2021-03-06 20:53:01,470 - INFO - ********Test_001_Login********
+2021-03-06 20:53:01,471 - INFO - ********Verifying Home Page Title********
+2021-03-06 20:53:04,455 - INFO - ********Home Page Title test Passed********
+2021-03-06 20:53:05,641 - INFO - ********Verifying Login test********
+2021-03-06 20:53:11,156 - INFO - ********Login Test passed********
+2021-03-06 20:57:11,428 - INFO - ********Test_001_Login********
+2021-03-06 20:57:11,429 - INFO - ********Verifying Home Page Title********
+2021-03-06 20:57:14,423 - INFO - ********Home Page Title test Passed********
+2021-03-06 20:57:15,696 - INFO - ********Verifying Login test********
+2021-03-06 20:57:21,900 - INFO - ********Login Test passed********
+2021-03-06 21:07:22,810 - INFO - ********Test_001_Login********
+2021-03-06 21:07:22,810 - INFO - ********Verifying Home Page Title********
+2021-03-06 21:07:26,104 - INFO - ********Home Page Title test Passed********
+2021-03-06 21:07:27,392 - INFO - ********Verifying Login test********
+2021-03-06 21:07:33,044 - INFO - ********Login Test passed********
+2021-03-07 07:25:11,668 - INFO - ********Test_001_Login********
+2021-03-07 07:25:11,674 - INFO - ********Verifying Home Page Title********
+2021-03-07 07:25:14,713 - INFO - ********Home Page Title test Passed********
+2021-03-07 07:25:16,114 - INFO - ********Verifying Login test********
+2021-03-07 07:25:22,579 - INFO - ********Login Test passed********
+2021-03-07 11:57:27,978 - INFO - ********Test_001_Login********
+2021-03-07 11:57:27,979 - INFO - ********Verifying Login test********
+2021-03-07 11:58:58,025 - INFO - ********Test_001_Login********
+2021-03-07 11:58:58,026 - INFO - ********Verifying Login test********
+2021-03-07 12:01:19,469 - INFO - ********Test_001_Login********
+2021-03-07 12:01:19,469 - INFO - ********Verifying Login test********
+2021-03-07 12:08:33,333 - INFO - ********Test_001_Login********
+2021-03-07 12:08:33,335 - INFO - ********Verifying Login test********
+2021-03-07 12:13:16,369 - INFO - ********Test_001_Login********
+2021-03-07 12:13:16,370 - INFO - ********Verifying Login test********
+2021-03-07 12:14:05,466 - INFO - ********Test_001_Login********
+2021-03-07 12:14:05,467 - INFO - ********Verifying Login test********
+2021-03-07 12:17:12,426 - INFO - ********Test_001_Login********
+2021-03-07 12:17:12,426 - INFO - ********Verifying Login test********
+2021-03-07 12:23:38,155 - INFO - ********Test_001_Login********
+2021-03-07 12:23:38,156 - INFO - ********Verifying Login test********
+2021-03-07 12:23:44,642 - INFO - ******** Login Test passed ********
+2021-03-07 13:15:48,415 - INFO - ********Test_001_Login********
+2021-03-07 13:15:48,416 - INFO - ********Verifying Login test********
+2021-03-07 13:15:56,661 - INFO - ******** Login Test passed ********
+2021-03-07 14:45:49,615 - INFO - ********Test_001_Login********
+2021-03-07 14:45:49,616 - INFO - ********Verifying Login test********
+2021-03-07 14:45:57,832 - INFO - ******** Login Test passed ********
+2021-03-07 15:25:54,001 - INFO - ********Test_001_Login********
+2021-03-07 15:25:54,002 - INFO - ********Verifying Login test********
+2021-03-07 15:29:59,800 - INFO - ********Test_001_Login********
+2021-03-07 15:29:59,800 - INFO - ********Verifying Login test********
+2021-03-07 15:35:17,117 - INFO - ********Test_001_Login********
+2021-03-07 15:35:17,118 - INFO - ********Verifying Login test********
+2021-03-07 15:39:01,317 - INFO - ********Test_001_Login********
+2021-03-07 15:39:01,317 - INFO - ********Verifying Login test********
+2021-03-07 15:40:30,012 - INFO - ********Test_001_Login********
+2021-03-07 15:40:30,013 - INFO - ********Verifying Login test********
+2021-03-07 15:40:47,849 - INFO - ******** Login Test failed ********
+2021-03-07 15:41:00,220 - INFO - ********Test_001_Login********
+2021-03-07 15:41:00,220 - INFO - ********Verifying Login test********
+2021-03-07 15:41:17,876 - INFO - ******** Login Test failed ********
+2021-03-07 15:43:35,813 - INFO - ********Test_001_Login********
+2021-03-07 15:43:35,815 - INFO - ********Verifying Login test********
+2021-03-07 15:43:45,010 - INFO - ******** Login Test passed ********
+2021-03-07 15:44:06,271 - INFO - ********Test_001_Login********
+2021-03-07 15:44:06,272 - INFO - ********Verifying Login test********
+2021-03-07 15:44:12,538 - INFO - ******** Login Test passed ********
+2021-03-07 18:02:08,115 - INFO - ********Test_001_Login********
+2021-03-07 18:02:08,115 - INFO - ********Verifying Login test********
+2021-03-07 18:02:17,613 - INFO - ******** Login Test passed ********
+2021-03-07 20:14:05,789 - INFO - ********Test_001_Login********
+2021-03-07 20:14:05,794 - INFO - ********Verifying Login test********
+2021-03-07 20:14:13,704 - INFO - ******** Login Test passed ********
+2021-03-07 20:14:32,765 - INFO - ********Test_001_Login********
+2021-03-07 20:14:32,765 - INFO - ********Verifying Login test********
+2021-03-07 20:14:43,185 - INFO - ******** Login Test passed ********
+2021-03-08 09:55:58,264 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 09:55:58,264 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 09:55:58,264 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 09:55:58,264 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 09:55:58,264 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 09:55:58,268 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 09:55:58,268 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 09:55:58,268 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 09:55:58,268 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 09:55:58,268 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 09:55:59,968 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 09:55:59,968 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 09:55:59,968 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 09:55:59,968 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 09:55:59,968 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 09:55:59,969 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 09:55:59,969 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 09:55:59,969 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 09:55:59,969 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 09:55:59,969 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 09:56:01,200 - INFO - ********Test_001_Login********
+2021-03-08 09:56:01,200 - INFO - ********Test_001_Login********
+2021-03-08 09:56:01,200 - INFO - ********Test_001_Login********
+2021-03-08 09:56:01,200 - INFO - ********Test_001_Login********
+2021-03-08 09:56:01,200 - INFO - ********Test_001_Login********
+2021-03-08 09:56:01,202 - INFO - ********Verifying Login test********
+2021-03-08 09:56:01,202 - INFO - ********Verifying Login test********
+2021-03-08 09:56:01,202 - INFO - ********Verifying Login test********
+2021-03-08 09:56:01,202 - INFO - ********Verifying Login test********
+2021-03-08 09:56:01,202 - INFO - ********Verifying Login test********
+2021-03-08 09:56:12,823 - INFO - ******** Login Test passed ********
+2021-03-08 09:56:12,823 - INFO - ******** Login Test passed ********
+2021-03-08 09:56:12,823 - INFO - ******** Login Test passed ********
+2021-03-08 09:56:12,823 - INFO - ******** Login Test passed ********
+2021-03-08 09:56:12,823 - INFO - ******** Login Test passed ********
+2021-03-08 09:56:14,030 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 09:56:14,030 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 09:56:14,030 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 09:56:14,030 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 09:56:14,030 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 09:56:15,336 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 09:56:15,336 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 09:56:15,336 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 09:56:15,336 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 09:56:15,336 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:25:30,271 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:25:30,271 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:25:30,271 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:25:30,271 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:25:30,271 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:25:30,273 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:25:30,273 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:25:30,273 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:25:30,273 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:25:30,273 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:25:31,891 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:25:31,891 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:25:31,891 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:25:31,891 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:25:31,891 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:25:31,893 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:25:31,893 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:25:31,893 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:25:31,893 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:25:31,893 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:25:33,264 - INFO - ********Test_001_Login********
+2021-03-08 10:25:33,264 - INFO - ********Test_001_Login********
+2021-03-08 10:25:33,264 - INFO - ********Test_001_Login********
+2021-03-08 10:25:33,264 - INFO - ********Test_001_Login********
+2021-03-08 10:25:33,264 - INFO - ********Test_001_Login********
+2021-03-08 10:25:33,267 - INFO - ********Verifying Login test********
+2021-03-08 10:25:33,267 - INFO - ********Verifying Login test********
+2021-03-08 10:25:33,267 - INFO - ********Verifying Login test********
+2021-03-08 10:25:33,267 - INFO - ********Verifying Login test********
+2021-03-08 10:25:33,267 - INFO - ********Verifying Login test********
+2021-03-08 10:25:39,189 - INFO - ******** Login Test passed ********
+2021-03-08 10:25:39,189 - INFO - ******** Login Test passed ********
+2021-03-08 10:25:39,189 - INFO - ******** Login Test passed ********
+2021-03-08 10:25:39,189 - INFO - ******** Login Test passed ********
+2021-03-08 10:25:39,189 - INFO - ******** Login Test passed ********
+2021-03-08 10:25:40,337 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:25:40,337 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:25:40,337 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:25:40,337 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:25:40,337 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:25:41,590 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:25:41,590 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:25:41,590 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:25:41,590 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:25:41,590 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:29:08,767 - INFO - ********Test_001_Login********
+2021-03-08 10:29:08,767 - INFO - ********Test_001_Login********
+2021-03-08 10:29:08,767 - INFO - ********Test_001_Login********
+2021-03-08 10:29:08,767 - INFO - ********Test_001_Login********
+2021-03-08 10:29:08,767 - INFO - ********Test_001_Login********
+2021-03-08 10:29:08,768 - INFO - ********Verifying Login test********
+2021-03-08 10:29:08,768 - INFO - ********Verifying Login test********
+2021-03-08 10:29:08,768 - INFO - ********Verifying Login test********
+2021-03-08 10:29:08,768 - INFO - ********Verifying Login test********
+2021-03-08 10:29:08,768 - INFO - ********Verifying Login test********
+2021-03-08 10:29:15,161 - INFO - ******** Login Test passed ********
+2021-03-08 10:29:15,161 - INFO - ******** Login Test passed ********
+2021-03-08 10:29:15,161 - INFO - ******** Login Test passed ********
+2021-03-08 10:29:15,161 - INFO - ******** Login Test passed ********
+2021-03-08 10:29:15,161 - INFO - ******** Login Test passed ********
+2021-03-08 10:29:16,407 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:29:16,407 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:29:16,407 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:29:16,407 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:29:16,407 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:29:18,085 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:29:18,085 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:29:18,085 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:29:18,085 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:29:18,085 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:29:18,085 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:29:18,085 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:29:18,085 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:29:18,085 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:29:18,085 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:29:19,331 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:29:19,331 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:29:19,331 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:29:19,331 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:29:19,331 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:29:20,714 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:29:20,714 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:29:20,714 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:29:20,714 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:29:20,714 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:29:20,714 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:29:20,714 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:29:20,714 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:29:20,714 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:29:20,714 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:38:36,664 - INFO - ********Test_001_Login********
+2021-03-08 10:38:36,664 - INFO - ********Test_001_Login********
+2021-03-08 10:38:36,664 - INFO - ********Test_001_Login********
+2021-03-08 10:38:36,664 - INFO - ********Test_001_Login********
+2021-03-08 10:38:36,664 - INFO - ********Test_001_Login********
+2021-03-08 10:38:36,666 - INFO - ********Verifying Login test********
+2021-03-08 10:38:36,666 - INFO - ********Verifying Login test********
+2021-03-08 10:38:36,666 - INFO - ********Verifying Login test********
+2021-03-08 10:38:36,666 - INFO - ********Verifying Login test********
+2021-03-08 10:38:36,666 - INFO - ********Verifying Login test********
+2021-03-08 10:38:42,942 - INFO - ******** Login Test passed ********
+2021-03-08 10:38:42,942 - INFO - ******** Login Test passed ********
+2021-03-08 10:38:42,942 - INFO - ******** Login Test passed ********
+2021-03-08 10:38:42,942 - INFO - ******** Login Test passed ********
+2021-03-08 10:38:42,942 - INFO - ******** Login Test passed ********
+2021-03-08 10:38:44,099 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:38:44,099 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:38:44,099 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:38:44,099 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:38:44,099 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:38:49,013 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:38:49,013 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:38:49,013 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:38:49,013 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:38:49,013 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:38:49,013 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:38:49,013 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:38:49,013 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:38:49,013 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:38:49,013 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:38:50,273 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:38:50,273 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:38:50,273 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:38:50,273 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:38:50,273 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:38:51,699 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:38:51,699 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:38:51,699 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:38:51,699 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:38:51,699 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:38:51,699 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:38:51,699 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:38:51,699 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:38:51,699 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:38:51,699 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:38:53,210 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:38:53,210 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:38:53,210 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:38:53,210 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:38:53,210 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:38:55,090 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:38:55,090 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:38:55,090 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:38:55,090 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:38:55,090 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:38:55,091 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:38:55,091 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:38:55,091 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:38:55,091 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:38:55,091 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:39:51,151 - INFO - ********Test_001_Login********
+2021-03-08 10:39:51,151 - INFO - ********Verifying Login test********
+2021-03-08 10:39:58,026 - INFO - ******** Login Test passed ********
+2021-03-08 10:39:59,180 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:40:03,884 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:40:03,884 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:46:12,446 - INFO - ********Test_001_Login********
+2021-03-08 10:46:12,446 - INFO - ********Test_001_Login********
+2021-03-08 10:46:12,446 - INFO - ********Test_001_Login********
+2021-03-08 10:46:12,446 - INFO - ********Test_001_Login********
+2021-03-08 10:46:12,446 - INFO - ********Test_001_Login********
+2021-03-08 10:46:12,449 - INFO - ********Verifying Login test********
+2021-03-08 10:46:12,449 - INFO - ********Verifying Login test********
+2021-03-08 10:46:12,449 - INFO - ********Verifying Login test********
+2021-03-08 10:46:12,449 - INFO - ********Verifying Login test********
+2021-03-08 10:46:12,449 - INFO - ********Verifying Login test********
+2021-03-08 10:46:19,505 - INFO - ******** Login Test passed ********
+2021-03-08 10:46:19,505 - INFO - ******** Login Test passed ********
+2021-03-08 10:46:19,505 - INFO - ******** Login Test passed ********
+2021-03-08 10:46:19,505 - INFO - ******** Login Test passed ********
+2021-03-08 10:46:19,505 - INFO - ******** Login Test passed ********
+2021-03-08 10:46:20,639 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:46:20,639 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:46:20,639 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:46:20,639 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:46:20,639 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:46:25,273 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:46:25,273 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:46:25,273 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:46:25,273 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:46:25,273 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:46:25,274 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:46:25,274 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:46:25,274 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:46:25,274 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:46:25,274 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:46:28,945 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:46:28,945 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:46:28,945 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:46:28,945 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:46:28,945 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:46:33,463 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:46:33,463 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:46:33,463 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:46:33,463 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:46:33,463 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:46:33,464 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:46:33,464 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:46:33,464 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:46:33,464 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:46:33,464 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:51:59,182 - INFO - ********Test_001_Login********
+2021-03-08 10:51:59,182 - INFO - ********Test_001_Login********
+2021-03-08 10:51:59,182 - INFO - ********Test_001_Login********
+2021-03-08 10:51:59,182 - INFO - ********Test_001_Login********
+2021-03-08 10:51:59,182 - INFO - ********Test_001_Login********
+2021-03-08 10:51:59,182 - INFO - ********Verifying Login test********
+2021-03-08 10:51:59,182 - INFO - ********Verifying Login test********
+2021-03-08 10:51:59,182 - INFO - ********Verifying Login test********
+2021-03-08 10:51:59,182 - INFO - ********Verifying Login test********
+2021-03-08 10:51:59,182 - INFO - ********Verifying Login test********
+2021-03-08 10:52:08,231 - INFO - ******** Login Test passed ********
+2021-03-08 10:52:08,231 - INFO - ******** Login Test passed ********
+2021-03-08 10:52:08,231 - INFO - ******** Login Test passed ********
+2021-03-08 10:52:08,231 - INFO - ******** Login Test passed ********
+2021-03-08 10:52:08,231 - INFO - ******** Login Test passed ********
+2021-03-08 10:52:09,299 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:52:09,299 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:52:09,299 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:52:09,299 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:52:09,299 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 10:52:13,952 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:52:13,952 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:52:13,952 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:52:13,952 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:52:13,952 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 10:52:13,953 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:52:13,953 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:52:13,953 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:52:13,953 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:52:13,953 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 10:52:18,050 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:52:18,050 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:52:18,050 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:52:18,050 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:52:18,050 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 10:52:22,514 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:52:22,514 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:52:22,514 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:52:22,514 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:52:22,514 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 10:52:22,515 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:52:22,515 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:52:22,515 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:52:22,515 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 10:52:22,515 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:05:49,592 - INFO - ********Test_001_Login********
+2021-03-08 11:05:49,592 - INFO - ********Test_001_Login********
+2021-03-08 11:05:49,592 - INFO - ********Test_001_Login********
+2021-03-08 11:05:49,592 - INFO - ********Test_001_Login********
+2021-03-08 11:05:49,592 - INFO - ********Test_001_Login********
+2021-03-08 11:05:49,594 - INFO - ********Verifying Login test********
+2021-03-08 11:05:49,594 - INFO - ********Verifying Login test********
+2021-03-08 11:05:49,594 - INFO - ********Verifying Login test********
+2021-03-08 11:05:49,594 - INFO - ********Verifying Login test********
+2021-03-08 11:05:49,594 - INFO - ********Verifying Login test********
+2021-03-08 11:05:55,905 - INFO - ******** Login Test passed ********
+2021-03-08 11:05:55,905 - INFO - ******** Login Test passed ********
+2021-03-08 11:05:55,905 - INFO - ******** Login Test passed ********
+2021-03-08 11:05:55,905 - INFO - ******** Login Test passed ********
+2021-03-08 11:05:55,905 - INFO - ******** Login Test passed ********
+2021-03-08 11:05:57,051 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:05:57,051 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:05:57,051 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:05:57,051 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:05:57,051 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:06:01,661 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:06:01,661 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:06:01,661 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:06:01,661 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:06:01,661 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:06:01,661 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:06:01,661 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:06:01,661 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:06:01,661 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:06:01,661 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:06:05,285 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:06:05,285 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:06:05,285 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:06:05,285 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:06:05,285 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:06:10,411 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:06:10,411 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:06:10,411 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:06:10,411 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:06:10,411 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:06:10,411 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:06:10,411 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:06:10,411 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:06:10,411 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:06:10,411 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:09:12,808 - INFO - ********Test_001_Login********
+2021-03-08 11:09:12,808 - INFO - ********Test_001_Login********
+2021-03-08 11:09:12,808 - INFO - ********Test_001_Login********
+2021-03-08 11:09:12,808 - INFO - ********Test_001_Login********
+2021-03-08 11:09:12,808 - INFO - ********Test_001_Login********
+2021-03-08 11:09:12,810 - INFO - ********Verifying Login test********
+2021-03-08 11:09:12,810 - INFO - ********Verifying Login test********
+2021-03-08 11:09:12,810 - INFO - ********Verifying Login test********
+2021-03-08 11:09:12,810 - INFO - ********Verifying Login test********
+2021-03-08 11:09:12,810 - INFO - ********Verifying Login test********
+2021-03-08 11:09:19,154 - INFO - ******** Login Test passed ********
+2021-03-08 11:09:19,154 - INFO - ******** Login Test passed ********
+2021-03-08 11:09:19,154 - INFO - ******** Login Test passed ********
+2021-03-08 11:09:19,154 - INFO - ******** Login Test passed ********
+2021-03-08 11:09:19,154 - INFO - ******** Login Test passed ********
+2021-03-08 11:09:20,254 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:09:20,254 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:09:20,254 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:09:20,254 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:09:20,254 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:09:38,382 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:09:38,382 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:09:38,382 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:09:38,382 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:09:38,382 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:09:39,625 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:09:39,625 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:09:39,625 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:09:39,625 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:09:39,625 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:09:39,626 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:09:39,626 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:09:39,626 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:09:39,626 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:09:39,626 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:09:44,223 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:09:44,223 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:09:44,223 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:09:44,223 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:09:44,223 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:09:46,007 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:09:46,007 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:09:46,007 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:09:46,007 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:09:46,007 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:09:46,008 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:09:46,008 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:09:46,008 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:09:46,008 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:09:46,008 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:13:41,884 - INFO - ********Test_001_Login********
+2021-03-08 11:13:41,884 - INFO - ********Test_001_Login********
+2021-03-08 11:13:41,884 - INFO - ********Test_001_Login********
+2021-03-08 11:13:41,884 - INFO - ********Test_001_Login********
+2021-03-08 11:13:41,884 - INFO - ********Test_001_Login********
+2021-03-08 11:13:41,887 - INFO - ********Verifying Login test********
+2021-03-08 11:13:41,887 - INFO - ********Verifying Login test********
+2021-03-08 11:13:41,887 - INFO - ********Verifying Login test********
+2021-03-08 11:13:41,887 - INFO - ********Verifying Login test********
+2021-03-08 11:13:41,887 - INFO - ********Verifying Login test********
+2021-03-08 11:13:47,271 - INFO - ******** Login Test passed ********
+2021-03-08 11:13:47,271 - INFO - ******** Login Test passed ********
+2021-03-08 11:13:47,271 - INFO - ******** Login Test passed ********
+2021-03-08 11:13:47,271 - INFO - ******** Login Test passed ********
+2021-03-08 11:13:47,271 - INFO - ******** Login Test passed ********
+2021-03-08 11:13:48,362 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:13:48,362 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:13:48,362 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:13:48,362 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:13:48,362 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:14:06,476 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:14:06,476 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:14:06,476 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:14:06,476 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:14:06,476 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:14:07,745 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:14:07,745 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:14:07,745 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:14:07,745 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:14:07,745 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:14:07,745 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:14:07,745 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:14:07,745 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:14:07,745 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:14:07,745 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:14:13,524 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:14:13,524 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:14:13,524 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:14:13,524 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:14:13,524 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:14:18,340 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:14:18,340 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:14:18,340 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:14:18,340 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:14:18,340 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:14:19,651 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:14:19,651 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:14:19,651 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:14:19,651 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:14:19,651 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:14:19,651 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:14:19,651 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:14:19,651 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:14:19,651 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:14:19,651 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:18:32,115 - INFO - ********Test_001_Login********
+2021-03-08 11:18:32,115 - INFO - ********Test_001_Login********
+2021-03-08 11:18:32,115 - INFO - ********Test_001_Login********
+2021-03-08 11:18:32,115 - INFO - ********Test_001_Login********
+2021-03-08 11:18:32,115 - INFO - ********Test_001_Login********
+2021-03-08 11:18:32,117 - INFO - ********Verifying Login test********
+2021-03-08 11:18:32,117 - INFO - ********Verifying Login test********
+2021-03-08 11:18:32,117 - INFO - ********Verifying Login test********
+2021-03-08 11:18:32,117 - INFO - ********Verifying Login test********
+2021-03-08 11:18:32,117 - INFO - ********Verifying Login test********
+2021-03-08 11:18:38,005 - INFO - ******** Login Test passed ********
+2021-03-08 11:18:38,005 - INFO - ******** Login Test passed ********
+2021-03-08 11:18:38,005 - INFO - ******** Login Test passed ********
+2021-03-08 11:18:38,005 - INFO - ******** Login Test passed ********
+2021-03-08 11:18:38,005 - INFO - ******** Login Test passed ********
+2021-03-08 11:18:39,128 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:18:39,128 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:18:39,128 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:18:39,128 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:18:39,128 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:18:56,527 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:18:56,527 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:18:56,527 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:18:56,527 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:18:56,527 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:18:57,876 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:18:57,876 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:18:57,876 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:18:57,876 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:18:57,876 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:18:57,877 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:18:57,877 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:18:57,877 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:18:57,877 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:18:57,877 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:19:05,266 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:19:05,266 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:19:05,266 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:19:05,266 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:19:05,266 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:19:12,621 - INFO - ******** View Added Nationality failed ********
+2021-03-08 11:19:12,621 - INFO - ******** View Added Nationality failed ********
+2021-03-08 11:19:12,621 - INFO - ******** View Added Nationality failed ********
+2021-03-08 11:19:12,621 - INFO - ******** View Added Nationality failed ********
+2021-03-08 11:19:12,621 - INFO - ******** View Added Nationality failed ********
+2021-03-08 11:19:13,895 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:19:13,895 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:19:13,895 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:19:13,895 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:19:13,895 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:19:13,895 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:19:13,895 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:19:13,895 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:19:13,895 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:19:13,895 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:27:17,281 - INFO - ********Test_001_Login********
+2021-03-08 11:27:17,281 - INFO - ********Test_001_Login********
+2021-03-08 11:27:17,281 - INFO - ********Test_001_Login********
+2021-03-08 11:27:17,281 - INFO - ********Test_001_Login********
+2021-03-08 11:27:17,281 - INFO - ********Test_001_Login********
+2021-03-08 11:27:17,284 - INFO - ********Verifying Login test********
+2021-03-08 11:27:17,284 - INFO - ********Verifying Login test********
+2021-03-08 11:27:17,284 - INFO - ********Verifying Login test********
+2021-03-08 11:27:17,284 - INFO - ********Verifying Login test********
+2021-03-08 11:27:17,284 - INFO - ********Verifying Login test********
+2021-03-08 11:27:24,032 - INFO - ******** Login Test passed ********
+2021-03-08 11:27:24,032 - INFO - ******** Login Test passed ********
+2021-03-08 11:27:24,032 - INFO - ******** Login Test passed ********
+2021-03-08 11:27:24,032 - INFO - ******** Login Test passed ********
+2021-03-08 11:27:24,032 - INFO - ******** Login Test passed ********
+2021-03-08 11:27:25,127 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:27:25,127 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:27:25,127 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:27:25,127 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:27:25,127 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:27:42,437 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:27:42,437 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:27:42,437 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:27:42,437 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:27:42,437 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:27:43,813 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:27:43,813 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:27:43,813 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:27:43,813 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:27:43,813 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:27:43,813 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:27:43,813 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:27:43,813 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:27:43,813 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:27:43,813 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:27:49,611 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:27:49,611 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:27:49,611 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:27:49,611 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:27:49,611 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:27:50,953 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:27:50,953 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:27:50,953 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:27:50,953 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:27:50,953 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:27:58,750 - INFO - ******** View Added Nationality failed ********
+2021-03-08 11:27:58,750 - INFO - ******** View Added Nationality failed ********
+2021-03-08 11:27:58,750 - INFO - ******** View Added Nationality failed ********
+2021-03-08 11:27:58,750 - INFO - ******** View Added Nationality failed ********
+2021-03-08 11:27:58,750 - INFO - ******** View Added Nationality failed ********
+2021-03-08 11:28:00,005 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:28:00,005 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:28:00,005 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:28:00,005 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:28:00,005 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:28:00,006 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:28:00,006 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:28:00,006 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:28:00,006 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:28:00,006 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:33:44,820 - INFO - ********Test_001_Login********
+2021-03-08 11:33:44,820 - INFO - ********Test_001_Login********
+2021-03-08 11:33:44,820 - INFO - ********Test_001_Login********
+2021-03-08 11:33:44,820 - INFO - ********Test_001_Login********
+2021-03-08 11:33:44,820 - INFO - ********Test_001_Login********
+2021-03-08 11:33:44,820 - INFO - ********Verifying Login test********
+2021-03-08 11:33:44,820 - INFO - ********Verifying Login test********
+2021-03-08 11:33:44,820 - INFO - ********Verifying Login test********
+2021-03-08 11:33:44,820 - INFO - ********Verifying Login test********
+2021-03-08 11:33:44,820 - INFO - ********Verifying Login test********
+2021-03-08 11:33:55,956 - INFO - ******** Login Test passed ********
+2021-03-08 11:33:55,956 - INFO - ******** Login Test passed ********
+2021-03-08 11:33:55,956 - INFO - ******** Login Test passed ********
+2021-03-08 11:33:55,956 - INFO - ******** Login Test passed ********
+2021-03-08 11:33:55,956 - INFO - ******** Login Test passed ********
+2021-03-08 11:33:57,077 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:33:57,077 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:33:57,077 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:33:57,077 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:33:57,077 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:34:13,628 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:34:13,628 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:34:13,628 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:34:13,628 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:34:13,628 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:34:18,995 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:34:18,995 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:34:18,995 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:34:18,995 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:34:18,995 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:34:18,995 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:34:18,995 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:34:18,995 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:34:18,995 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:34:18,995 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:34:27,098 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:34:27,098 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:34:27,098 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:34:27,098 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:34:27,098 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:34:28,433 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:34:28,433 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:34:28,433 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:34:28,433 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:34:28,433 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:34:35,199 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:34:35,199 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:34:35,199 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:34:35,199 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:34:35,199 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:34:36,585 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:34:36,585 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:34:36,585 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:34:36,585 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:34:36,585 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:34:36,585 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:34:36,585 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:34:36,585 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:34:36,585 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:34:36,585 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:38:28,041 - INFO - ********Test_001_Login********
+2021-03-08 11:38:28,041 - INFO - ********Test_001_Login********
+2021-03-08 11:38:28,041 - INFO - ********Test_001_Login********
+2021-03-08 11:38:28,041 - INFO - ********Test_001_Login********
+2021-03-08 11:38:28,041 - INFO - ********Test_001_Login********
+2021-03-08 11:38:28,041 - INFO - ********Verifying Login test********
+2021-03-08 11:38:28,041 - INFO - ********Verifying Login test********
+2021-03-08 11:38:28,041 - INFO - ********Verifying Login test********
+2021-03-08 11:38:28,041 - INFO - ********Verifying Login test********
+2021-03-08 11:38:28,041 - INFO - ********Verifying Login test********
+2021-03-08 11:38:37,084 - INFO - ******** Login Test passed ********
+2021-03-08 11:38:37,084 - INFO - ******** Login Test passed ********
+2021-03-08 11:38:37,084 - INFO - ******** Login Test passed ********
+2021-03-08 11:38:37,084 - INFO - ******** Login Test passed ********
+2021-03-08 11:38:37,084 - INFO - ******** Login Test passed ********
+2021-03-08 11:38:38,338 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:38:38,338 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:38:38,338 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:38:38,338 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:38:38,338 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:38:55,283 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:38:55,283 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:38:55,283 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:38:55,283 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:38:55,283 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:38:56,689 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:38:56,689 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:38:56,689 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:38:56,689 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:38:56,689 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:38:56,689 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:38:56,689 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:38:56,689 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:38:56,689 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:38:56,689 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:39:03,067 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:39:03,067 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:39:03,067 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:39:03,067 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:39:03,067 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:39:04,401 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:39:04,401 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:39:04,401 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:39:04,401 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:39:04,401 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:39:12,456 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:39:12,456 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:39:12,456 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:39:12,456 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:39:12,456 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:39:13,790 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:39:13,790 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:39:13,790 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:39:13,790 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:39:13,790 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:39:13,790 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:39:13,790 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:39:13,790 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:39:13,790 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:39:13,790 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:45:21,440 - INFO - ********Test_001_Login********
+2021-03-08 11:45:21,440 - INFO - ********Test_001_Login********
+2021-03-08 11:45:21,440 - INFO - ********Test_001_Login********
+2021-03-08 11:45:21,440 - INFO - ********Test_001_Login********
+2021-03-08 11:45:21,440 - INFO - ********Test_001_Login********
+2021-03-08 11:45:21,440 - INFO - ********Verifying Login test********
+2021-03-08 11:45:21,440 - INFO - ********Verifying Login test********
+2021-03-08 11:45:21,440 - INFO - ********Verifying Login test********
+2021-03-08 11:45:21,440 - INFO - ********Verifying Login test********
+2021-03-08 11:45:21,440 - INFO - ********Verifying Login test********
+2021-03-08 11:45:28,547 - INFO - ******** Login Test passed ********
+2021-03-08 11:45:28,547 - INFO - ******** Login Test passed ********
+2021-03-08 11:45:28,547 - INFO - ******** Login Test passed ********
+2021-03-08 11:45:28,547 - INFO - ******** Login Test passed ********
+2021-03-08 11:45:28,547 - INFO - ******** Login Test passed ********
+2021-03-08 11:45:29,669 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:45:29,669 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:45:29,669 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:45:29,669 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:45:29,669 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:45:49,073 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:45:49,073 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:45:49,073 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:45:49,073 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:45:49,073 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:45:50,403 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:45:50,403 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:45:50,403 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:45:50,403 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:45:50,403 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:45:50,404 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:45:50,404 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:45:50,404 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:45:50,404 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:45:50,404 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:45:57,359 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:45:57,359 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:45:57,359 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:45:57,359 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:45:57,359 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:46:03,571 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:46:03,571 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:46:03,571 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:46:03,571 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:46:03,571 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:46:05,053 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:46:05,053 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:46:05,053 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:46:05,053 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:46:05,053 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:46:05,054 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:46:05,054 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:46:05,054 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:46:05,054 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:46:05,054 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:49:17,304 - INFO - ********Test_001_Login********
+2021-03-08 11:49:17,304 - INFO - ********Test_001_Login********
+2021-03-08 11:49:17,304 - INFO - ********Test_001_Login********
+2021-03-08 11:49:17,304 - INFO - ********Test_001_Login********
+2021-03-08 11:49:17,304 - INFO - ********Test_001_Login********
+2021-03-08 11:49:17,306 - INFO - ********Verifying Login test********
+2021-03-08 11:49:17,306 - INFO - ********Verifying Login test********
+2021-03-08 11:49:17,306 - INFO - ********Verifying Login test********
+2021-03-08 11:49:17,306 - INFO - ********Verifying Login test********
+2021-03-08 11:49:17,306 - INFO - ********Verifying Login test********
+2021-03-08 11:49:22,823 - INFO - ******** Login Test passed ********
+2021-03-08 11:49:22,823 - INFO - ******** Login Test passed ********
+2021-03-08 11:49:22,823 - INFO - ******** Login Test passed ********
+2021-03-08 11:49:22,823 - INFO - ******** Login Test passed ********
+2021-03-08 11:49:22,823 - INFO - ******** Login Test passed ********
+2021-03-08 11:49:23,915 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:49:23,915 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:49:23,915 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:49:23,915 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:49:23,915 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:49:40,066 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:49:40,066 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:49:40,066 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:49:40,066 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:49:40,066 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:49:41,458 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:49:41,458 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:49:41,458 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:49:41,458 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:49:41,458 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:49:41,459 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:49:41,459 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:49:41,459 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:49:41,459 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:49:41,459 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:49:48,651 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:49:48,651 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:49:48,651 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:49:48,651 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:49:48,651 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:49:49,971 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:49:49,971 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:49:49,971 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:49:49,971 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:49:49,971 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:49:56,814 - INFO - ******** View Added Nationality failed ********
+2021-03-08 11:49:56,814 - INFO - ******** View Added Nationality failed ********
+2021-03-08 11:49:56,814 - INFO - ******** View Added Nationality failed ********
+2021-03-08 11:49:56,814 - INFO - ******** View Added Nationality failed ********
+2021-03-08 11:49:56,814 - INFO - ******** View Added Nationality failed ********
+2021-03-08 11:49:58,088 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:49:58,088 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:49:58,088 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:49:58,088 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:49:58,088 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:49:58,088 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:49:58,088 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:49:58,088 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:49:58,088 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:49:58,088 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:51:39,098 - INFO - ********Test_001_Login********
+2021-03-08 11:51:39,098 - INFO - ********Test_001_Login********
+2021-03-08 11:51:39,098 - INFO - ********Test_001_Login********
+2021-03-08 11:51:39,098 - INFO - ********Test_001_Login********
+2021-03-08 11:51:39,098 - INFO - ********Test_001_Login********
+2021-03-08 11:51:39,101 - INFO - ********Verifying Login test********
+2021-03-08 11:51:39,101 - INFO - ********Verifying Login test********
+2021-03-08 11:51:39,101 - INFO - ********Verifying Login test********
+2021-03-08 11:51:39,101 - INFO - ********Verifying Login test********
+2021-03-08 11:51:39,101 - INFO - ********Verifying Login test********
+2021-03-08 11:51:46,510 - INFO - ******** Login Test passed ********
+2021-03-08 11:51:46,510 - INFO - ******** Login Test passed ********
+2021-03-08 11:51:46,510 - INFO - ******** Login Test passed ********
+2021-03-08 11:51:46,510 - INFO - ******** Login Test passed ********
+2021-03-08 11:51:46,510 - INFO - ******** Login Test passed ********
+2021-03-08 11:51:47,682 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:51:47,682 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:51:47,682 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:51:47,682 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:51:47,682 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:52:04,513 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:52:04,513 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:52:04,513 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:52:04,513 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:52:04,513 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:52:05,815 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:52:05,815 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:52:05,815 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:52:05,815 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:52:05,815 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:52:05,816 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:52:05,816 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:52:05,816 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:52:05,816 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:52:05,816 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:52:12,233 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:52:12,233 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:52:12,233 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:52:12,233 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:52:12,233 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 11:52:13,521 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:52:13,521 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:52:13,521 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:52:13,521 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:52:13,521 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:52:19,831 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:52:19,831 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:52:19,831 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:52:19,831 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:52:19,831 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:52:21,152 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:52:21,152 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:52:21,152 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:52:21,152 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:52:21,152 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:52:21,153 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:52:21,153 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:52:21,153 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:52:21,153 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:52:21,153 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:56:35,789 - INFO - ********Test_001_Login********
+2021-03-08 11:56:35,789 - INFO - ********Test_001_Login********
+2021-03-08 11:56:35,789 - INFO - ********Test_001_Login********
+2021-03-08 11:56:35,789 - INFO - ********Test_001_Login********
+2021-03-08 11:56:35,789 - INFO - ********Test_001_Login********
+2021-03-08 11:56:35,791 - INFO - ********Verifying Login test********
+2021-03-08 11:56:35,791 - INFO - ********Verifying Login test********
+2021-03-08 11:56:35,791 - INFO - ********Verifying Login test********
+2021-03-08 11:56:35,791 - INFO - ********Verifying Login test********
+2021-03-08 11:56:35,791 - INFO - ********Verifying Login test********
+2021-03-08 11:56:46,345 - INFO - ******** Login Test passed ********
+2021-03-08 11:56:46,345 - INFO - ******** Login Test passed ********
+2021-03-08 11:56:46,345 - INFO - ******** Login Test passed ********
+2021-03-08 11:56:46,345 - INFO - ******** Login Test passed ********
+2021-03-08 11:56:46,345 - INFO - ******** Login Test passed ********
+2021-03-08 11:56:47,444 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:56:47,444 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:56:47,444 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:56:47,444 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:56:47,444 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 11:57:04,645 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:57:04,645 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:57:04,645 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:57:04,645 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:57:04,645 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 11:57:05,974 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:57:05,974 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:57:05,974 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:57:05,974 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:57:05,974 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 11:57:05,976 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:57:05,976 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:57:05,976 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:57:05,976 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:57:05,976 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 11:57:12,523 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 11:57:12,523 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 11:57:12,523 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 11:57:12,523 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 11:57:12,523 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 11:57:13,683 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:57:13,683 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:57:13,683 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:57:13,683 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:57:13,683 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 11:57:21,796 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:57:21,796 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:57:21,796 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:57:21,796 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:57:21,796 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 11:57:23,153 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:57:23,153 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:57:23,153 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:57:23,153 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:57:23,153 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 11:57:23,154 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:57:23,154 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:57:23,154 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:57:23,154 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 11:57:23,154 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:00:31,368 - INFO - ********Test_001_Login********
+2021-03-08 12:00:31,368 - INFO - ********Test_001_Login********
+2021-03-08 12:00:31,368 - INFO - ********Test_001_Login********
+2021-03-08 12:00:31,368 - INFO - ********Test_001_Login********
+2021-03-08 12:00:31,368 - INFO - ********Test_001_Login********
+2021-03-08 12:00:31,368 - INFO - ********Verifying Login test********
+2021-03-08 12:00:31,368 - INFO - ********Verifying Login test********
+2021-03-08 12:00:31,368 - INFO - ********Verifying Login test********
+2021-03-08 12:00:31,368 - INFO - ********Verifying Login test********
+2021-03-08 12:00:31,368 - INFO - ********Verifying Login test********
+2021-03-08 12:00:37,353 - INFO - ******** Login Test passed ********
+2021-03-08 12:00:37,353 - INFO - ******** Login Test passed ********
+2021-03-08 12:00:37,353 - INFO - ******** Login Test passed ********
+2021-03-08 12:00:37,353 - INFO - ******** Login Test passed ********
+2021-03-08 12:00:37,353 - INFO - ******** Login Test passed ********
+2021-03-08 12:00:38,462 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:00:38,462 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:00:38,462 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:00:38,462 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:00:38,462 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:00:54,449 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:00:54,449 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:00:54,449 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:00:54,449 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:00:54,449 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:00:55,843 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:00:55,843 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:00:55,843 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:00:55,843 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:00:55,843 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:00:55,844 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:00:55,844 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:00:55,844 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:00:55,844 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:00:55,844 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:01:02,137 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:01:02,137 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:01:02,137 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:01:02,137 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:01:02,137 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:01:08,130 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:01:08,130 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:01:08,130 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:01:08,130 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:01:08,130 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:01:09,549 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:01:09,549 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:01:09,549 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:01:09,549 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:01:09,549 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:01:09,549 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:01:09,549 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:01:09,549 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:01:09,549 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:01:09,549 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:01:21,573 - INFO - ******** Edit Nationality Test failed ********
+2021-03-08 12:01:21,573 - INFO - ******** Edit Nationality Test failed ********
+2021-03-08 12:01:21,573 - INFO - ******** Edit Nationality Test failed ********
+2021-03-08 12:01:21,573 - INFO - ******** Edit Nationality Test failed ********
+2021-03-08 12:01:21,573 - INFO - ******** Edit Nationality Test failed ********
+2021-03-08 12:02:36,459 - INFO - ********Test_001_Login********
+2021-03-08 12:02:36,459 - INFO - ********Test_001_Login********
+2021-03-08 12:02:36,459 - INFO - ********Test_001_Login********
+2021-03-08 12:02:36,459 - INFO - ********Test_001_Login********
+2021-03-08 12:02:36,459 - INFO - ********Test_001_Login********
+2021-03-08 12:02:36,460 - INFO - ********Verifying Login test********
+2021-03-08 12:02:36,460 - INFO - ********Verifying Login test********
+2021-03-08 12:02:36,460 - INFO - ********Verifying Login test********
+2021-03-08 12:02:36,460 - INFO - ********Verifying Login test********
+2021-03-08 12:02:36,460 - INFO - ********Verifying Login test********
+2021-03-08 12:02:41,489 - INFO - ******** Login Test passed ********
+2021-03-08 12:02:41,489 - INFO - ******** Login Test passed ********
+2021-03-08 12:02:41,489 - INFO - ******** Login Test passed ********
+2021-03-08 12:02:41,489 - INFO - ******** Login Test passed ********
+2021-03-08 12:02:41,489 - INFO - ******** Login Test passed ********
+2021-03-08 12:02:42,585 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:02:42,585 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:02:42,585 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:02:42,585 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:02:42,585 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:03:01,760 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:03:01,760 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:03:01,760 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:03:01,760 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:03:01,760 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:03:03,112 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:03:03,112 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:03:03,112 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:03:03,112 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:03:03,112 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:03:03,112 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:03:03,112 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:03:03,112 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:03:03,112 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:03:03,112 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:03:08,939 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:03:08,939 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:03:08,939 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:03:08,939 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:03:08,939 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:03:16,389 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:03:16,389 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:03:16,389 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:03:16,389 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:03:16,389 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:03:17,717 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:03:17,717 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:03:17,717 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:03:17,717 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:03:17,717 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:03:17,717 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:03:17,717 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:03:17,717 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:03:17,717 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:03:17,717 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:03:30,981 - INFO - ******** Edit Nationality Test failed ********
+2021-03-08 12:03:30,981 - INFO - ******** Edit Nationality Test failed ********
+2021-03-08 12:03:30,981 - INFO - ******** Edit Nationality Test failed ********
+2021-03-08 12:03:30,981 - INFO - ******** Edit Nationality Test failed ********
+2021-03-08 12:03:30,981 - INFO - ******** Edit Nationality Test failed ********
+2021-03-08 12:14:18,932 - INFO - ********Test_001_Login********
+2021-03-08 12:14:18,932 - INFO - ********Test_001_Login********
+2021-03-08 12:14:18,932 - INFO - ********Test_001_Login********
+2021-03-08 12:14:18,932 - INFO - ********Test_001_Login********
+2021-03-08 12:14:18,932 - INFO - ********Test_001_Login********
+2021-03-08 12:14:18,935 - INFO - ********Verifying Login test********
+2021-03-08 12:14:18,935 - INFO - ********Verifying Login test********
+2021-03-08 12:14:18,935 - INFO - ********Verifying Login test********
+2021-03-08 12:14:18,935 - INFO - ********Verifying Login test********
+2021-03-08 12:14:18,935 - INFO - ********Verifying Login test********
+2021-03-08 12:14:26,718 - INFO - ******** Login Test passed ********
+2021-03-08 12:14:26,718 - INFO - ******** Login Test passed ********
+2021-03-08 12:14:26,718 - INFO - ******** Login Test passed ********
+2021-03-08 12:14:26,718 - INFO - ******** Login Test passed ********
+2021-03-08 12:14:26,718 - INFO - ******** Login Test passed ********
+2021-03-08 12:14:27,866 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:14:27,866 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:14:27,866 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:14:27,866 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:14:27,866 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:14:47,475 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:14:47,475 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:14:47,475 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:14:47,475 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:14:47,475 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:14:48,737 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:14:48,737 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:14:48,737 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:14:48,737 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:14:48,737 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:14:48,737 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:14:48,737 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:14:48,737 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:14:48,737 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:14:48,737 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:14:54,769 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:14:54,769 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:14:54,769 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:14:54,769 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:14:54,769 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:15:02,766 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:15:02,766 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:15:02,766 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:15:02,766 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:15:02,766 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:15:08,161 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:15:08,161 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:15:08,161 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:15:08,161 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:15:08,161 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:15:08,162 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:15:08,162 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:15:08,162 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:15:08,162 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:15:08,162 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:23:24,341 - INFO - ********Test_001_Login********
+2021-03-08 12:23:24,341 - INFO - ********Test_001_Login********
+2021-03-08 12:23:24,341 - INFO - ********Test_001_Login********
+2021-03-08 12:23:24,341 - INFO - ********Test_001_Login********
+2021-03-08 12:23:24,341 - INFO - ********Test_001_Login********
+2021-03-08 12:23:24,342 - INFO - ********Verifying Login test********
+2021-03-08 12:23:24,342 - INFO - ********Verifying Login test********
+2021-03-08 12:23:24,342 - INFO - ********Verifying Login test********
+2021-03-08 12:23:24,342 - INFO - ********Verifying Login test********
+2021-03-08 12:23:24,342 - INFO - ********Verifying Login test********
+2021-03-08 12:23:33,373 - INFO - ******** Login Test passed ********
+2021-03-08 12:23:33,373 - INFO - ******** Login Test passed ********
+2021-03-08 12:23:33,373 - INFO - ******** Login Test passed ********
+2021-03-08 12:23:33,373 - INFO - ******** Login Test passed ********
+2021-03-08 12:23:33,373 - INFO - ******** Login Test passed ********
+2021-03-08 12:23:34,509 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:23:34,509 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:23:34,509 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:23:34,509 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:23:34,509 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:23:56,223 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:23:56,223 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:23:56,223 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:23:56,223 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:23:56,223 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:23:57,477 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:23:57,477 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:23:57,477 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:23:57,477 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:23:57,477 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:23:57,478 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:23:57,478 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:23:57,478 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:23:57,478 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:23:57,478 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:24:05,708 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:24:05,708 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:24:05,708 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:24:05,708 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:24:05,708 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:24:07,090 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:24:07,090 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:24:07,090 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:24:07,090 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:24:07,090 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:24:19,501 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:24:19,501 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:24:19,501 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:24:19,501 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:24:19,501 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:24:19,502 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:24:19,502 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:24:19,502 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:24:19,502 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:24:19,502 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:30:21,726 - INFO - ********Test_001_Login********
+2021-03-08 12:30:21,726 - INFO - ********Test_001_Login********
+2021-03-08 12:30:21,726 - INFO - ********Test_001_Login********
+2021-03-08 12:30:21,726 - INFO - ********Test_001_Login********
+2021-03-08 12:30:21,726 - INFO - ********Test_001_Login********
+2021-03-08 12:30:21,729 - INFO - ********Verifying Login test********
+2021-03-08 12:30:21,729 - INFO - ********Verifying Login test********
+2021-03-08 12:30:21,729 - INFO - ********Verifying Login test********
+2021-03-08 12:30:21,729 - INFO - ********Verifying Login test********
+2021-03-08 12:30:21,729 - INFO - ********Verifying Login test********
+2021-03-08 12:30:27,427 - INFO - ******** Login Test passed ********
+2021-03-08 12:30:27,427 - INFO - ******** Login Test passed ********
+2021-03-08 12:30:27,427 - INFO - ******** Login Test passed ********
+2021-03-08 12:30:27,427 - INFO - ******** Login Test passed ********
+2021-03-08 12:30:27,427 - INFO - ******** Login Test passed ********
+2021-03-08 12:30:28,589 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:30:28,589 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:30:28,589 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:30:28,589 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:30:28,589 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:30:49,228 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:30:49,228 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:30:49,228 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:30:49,228 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:30:49,228 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:30:50,460 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:30:50,460 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:30:50,460 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:30:50,460 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:30:50,460 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:30:50,461 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:30:50,461 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:30:50,461 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:30:50,461 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:30:50,461 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:30:59,708 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:30:59,708 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:30:59,708 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:30:59,708 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:30:59,708 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:31:01,076 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:31:01,076 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:31:01,076 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:31:01,076 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:31:01,076 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:31:08,653 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:31:08,653 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:31:08,653 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:31:08,653 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:31:08,653 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:31:08,657 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:31:08,657 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:31:08,657 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:31:08,657 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:31:08,657 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:32:53,933 - INFO - ********Test_001_Login********
+2021-03-08 12:32:53,933 - INFO - ********Test_001_Login********
+2021-03-08 12:32:53,933 - INFO - ********Test_001_Login********
+2021-03-08 12:32:53,933 - INFO - ********Test_001_Login********
+2021-03-08 12:32:53,933 - INFO - ********Test_001_Login********
+2021-03-08 12:32:53,934 - INFO - ********Verifying Login test********
+2021-03-08 12:32:53,934 - INFO - ********Verifying Login test********
+2021-03-08 12:32:53,934 - INFO - ********Verifying Login test********
+2021-03-08 12:32:53,934 - INFO - ********Verifying Login test********
+2021-03-08 12:32:53,934 - INFO - ********Verifying Login test********
+2021-03-08 12:33:08,013 - INFO - ******** Login Test passed ********
+2021-03-08 12:33:08,013 - INFO - ******** Login Test passed ********
+2021-03-08 12:33:08,013 - INFO - ******** Login Test passed ********
+2021-03-08 12:33:08,013 - INFO - ******** Login Test passed ********
+2021-03-08 12:33:08,013 - INFO - ******** Login Test passed ********
+2021-03-08 12:33:09,105 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:33:09,105 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:33:09,105 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:33:09,105 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:33:09,105 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:33:29,803 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:33:29,803 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:33:29,803 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:33:29,803 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:33:29,803 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:33:30,988 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:33:30,988 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:33:30,988 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:33:30,988 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:33:30,988 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:33:30,990 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:33:30,990 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:33:30,990 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:33:30,990 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:33:30,990 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:33:53,145 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:33:53,145 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:33:53,145 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:33:53,145 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:33:53,145 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:33:54,450 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:33:54,450 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:33:54,450 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:33:54,450 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:33:54,450 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:34:03,348 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:34:03,348 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:34:03,348 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:34:03,348 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:34:03,348 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:34:03,350 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:34:03,350 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:34:03,350 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:34:03,350 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:34:03,350 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:35:21,387 - INFO - ********Test_001_Login********
+2021-03-08 12:35:21,387 - INFO - ********Test_001_Login********
+2021-03-08 12:35:21,387 - INFO - ********Test_001_Login********
+2021-03-08 12:35:21,387 - INFO - ********Test_001_Login********
+2021-03-08 12:35:21,387 - INFO - ********Test_001_Login********
+2021-03-08 12:35:21,390 - INFO - ********Verifying Login test********
+2021-03-08 12:35:21,390 - INFO - ********Verifying Login test********
+2021-03-08 12:35:21,390 - INFO - ********Verifying Login test********
+2021-03-08 12:35:21,390 - INFO - ********Verifying Login test********
+2021-03-08 12:35:21,390 - INFO - ********Verifying Login test********
+2021-03-08 12:35:30,167 - INFO - ******** Login Test passed ********
+2021-03-08 12:35:30,167 - INFO - ******** Login Test passed ********
+2021-03-08 12:35:30,167 - INFO - ******** Login Test passed ********
+2021-03-08 12:35:30,167 - INFO - ******** Login Test passed ********
+2021-03-08 12:35:30,167 - INFO - ******** Login Test passed ********
+2021-03-08 12:35:31,295 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:35:31,295 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:35:31,295 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:35:31,295 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:35:31,295 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:35:52,110 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:35:52,110 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:35:52,110 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:35:52,110 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:35:52,110 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:35:53,303 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:35:53,303 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:35:53,303 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:35:53,303 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:35:53,303 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:35:53,304 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:35:53,304 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:35:53,304 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:35:53,304 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:35:53,304 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:36:02,585 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:36:02,585 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:36:02,585 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:36:02,585 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:36:02,585 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:36:03,989 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:36:03,989 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:36:03,989 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:36:03,989 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:36:03,989 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:36:13,139 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:36:13,139 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:36:13,139 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:36:13,139 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:36:13,139 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:36:13,141 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:36:13,141 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:36:13,141 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:36:13,141 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:36:13,141 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:37:54,413 - INFO - ********Test_001_Login********
+2021-03-08 12:37:54,413 - INFO - ********Test_001_Login********
+2021-03-08 12:37:54,413 - INFO - ********Test_001_Login********
+2021-03-08 12:37:54,413 - INFO - ********Test_001_Login********
+2021-03-08 12:37:54,413 - INFO - ********Test_001_Login********
+2021-03-08 12:37:54,414 - INFO - ********Verifying Login test********
+2021-03-08 12:37:54,414 - INFO - ********Verifying Login test********
+2021-03-08 12:37:54,414 - INFO - ********Verifying Login test********
+2021-03-08 12:37:54,414 - INFO - ********Verifying Login test********
+2021-03-08 12:37:54,414 - INFO - ********Verifying Login test********
+2021-03-08 12:38:01,833 - INFO - ******** Login Test passed ********
+2021-03-08 12:38:01,833 - INFO - ******** Login Test passed ********
+2021-03-08 12:38:01,833 - INFO - ******** Login Test passed ********
+2021-03-08 12:38:01,833 - INFO - ******** Login Test passed ********
+2021-03-08 12:38:01,833 - INFO - ******** Login Test passed ********
+2021-03-08 12:38:02,996 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:38:02,996 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:38:02,996 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:38:02,996 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:38:02,996 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:38:38,351 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:38:38,351 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:38:38,351 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:38:38,351 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:38:38,351 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:38:39,598 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:38:39,598 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:38:39,598 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:38:39,598 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:38:39,598 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:38:39,599 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:38:39,599 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:38:39,599 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:38:39,599 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:38:39,599 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:38:56,663 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:38:56,663 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:38:56,663 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:38:56,663 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:38:56,663 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:38:57,971 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:38:57,971 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:38:57,971 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:38:57,971 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:38:57,971 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:39:07,322 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:39:07,322 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:39:07,322 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:39:07,322 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:39:07,322 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:39:07,322 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:39:07,322 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:39:07,322 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:39:07,322 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:39:07,322 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:41:18,626 - INFO - ********Test_001_Login********
+2021-03-08 12:41:18,626 - INFO - ********Test_001_Login********
+2021-03-08 12:41:18,626 - INFO - ********Test_001_Login********
+2021-03-08 12:41:18,626 - INFO - ********Test_001_Login********
+2021-03-08 12:41:18,626 - INFO - ********Test_001_Login********
+2021-03-08 12:41:18,628 - INFO - ********Verifying Login test********
+2021-03-08 12:41:18,628 - INFO - ********Verifying Login test********
+2021-03-08 12:41:18,628 - INFO - ********Verifying Login test********
+2021-03-08 12:41:18,628 - INFO - ********Verifying Login test********
+2021-03-08 12:41:18,628 - INFO - ********Verifying Login test********
+2021-03-08 12:41:26,431 - INFO - ******** Login Test passed ********
+2021-03-08 12:41:26,431 - INFO - ******** Login Test passed ********
+2021-03-08 12:41:26,431 - INFO - ******** Login Test passed ********
+2021-03-08 12:41:26,431 - INFO - ******** Login Test passed ********
+2021-03-08 12:41:26,431 - INFO - ******** Login Test passed ********
+2021-03-08 12:41:27,530 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:41:27,530 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:41:27,530 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:41:27,530 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:41:27,530 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:41:44,989 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:41:44,989 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:41:44,989 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:41:44,989 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:41:44,989 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:41:46,171 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:41:46,171 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:41:46,171 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:41:46,171 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:41:46,171 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:41:46,173 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:41:46,173 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:41:46,173 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:41:46,173 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:41:46,173 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:41:55,729 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:41:55,729 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:41:55,729 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:41:55,729 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:41:55,729 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:42:05,261 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:42:05,261 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:42:05,261 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:42:05,261 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:42:05,261 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:42:05,262 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:42:05,262 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:42:05,262 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:42:05,262 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:42:05,262 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:45:53,662 - INFO - ********Test_001_Login********
+2021-03-08 12:45:53,662 - INFO - ********Test_001_Login********
+2021-03-08 12:45:53,662 - INFO - ********Test_001_Login********
+2021-03-08 12:45:53,662 - INFO - ********Test_001_Login********
+2021-03-08 12:45:53,662 - INFO - ********Test_001_Login********
+2021-03-08 12:45:53,665 - INFO - ********Verifying Login test********
+2021-03-08 12:45:53,665 - INFO - ********Verifying Login test********
+2021-03-08 12:45:53,665 - INFO - ********Verifying Login test********
+2021-03-08 12:45:53,665 - INFO - ********Verifying Login test********
+2021-03-08 12:45:53,665 - INFO - ********Verifying Login test********
+2021-03-08 12:46:01,508 - INFO - ******** Login Test passed ********
+2021-03-08 12:46:01,508 - INFO - ******** Login Test passed ********
+2021-03-08 12:46:01,508 - INFO - ******** Login Test passed ********
+2021-03-08 12:46:01,508 - INFO - ******** Login Test passed ********
+2021-03-08 12:46:01,508 - INFO - ******** Login Test passed ********
+2021-03-08 12:46:02,649 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:46:02,649 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:46:02,649 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:46:02,649 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:46:02,649 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:46:25,792 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:46:25,792 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:46:25,792 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:46:25,792 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:46:25,792 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:46:27,036 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:46:27,036 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:46:27,036 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:46:27,036 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:46:27,036 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:46:27,039 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:46:27,039 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:46:27,039 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:46:27,039 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:46:27,039 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:46:46,711 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:46:46,711 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:46:46,711 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:46:46,711 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:46:46,711 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:46:54,608 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:46:54,608 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:46:54,608 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:46:54,608 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:46:54,608 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:46:55,871 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:46:55,871 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:46:55,871 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:46:55,871 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:46:55,871 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:46:55,872 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:46:55,872 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:46:55,872 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:46:55,872 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:46:55,872 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:47:11,656 - INFO - ******** Edit Nationality Test failed ********
+2021-03-08 12:47:11,656 - INFO - ******** Edit Nationality Test failed ********
+2021-03-08 12:47:11,656 - INFO - ******** Edit Nationality Test failed ********
+2021-03-08 12:47:11,656 - INFO - ******** Edit Nationality Test failed ********
+2021-03-08 12:47:11,656 - INFO - ******** Edit Nationality Test failed ********
+2021-03-08 12:49:42,659 - INFO - ********Test_001_Login********
+2021-03-08 12:49:42,659 - INFO - ********Test_001_Login********
+2021-03-08 12:49:42,659 - INFO - ********Test_001_Login********
+2021-03-08 12:49:42,659 - INFO - ********Test_001_Login********
+2021-03-08 12:49:42,659 - INFO - ********Test_001_Login********
+2021-03-08 12:49:42,661 - INFO - ********Verifying Login test********
+2021-03-08 12:49:42,661 - INFO - ********Verifying Login test********
+2021-03-08 12:49:42,661 - INFO - ********Verifying Login test********
+2021-03-08 12:49:42,661 - INFO - ********Verifying Login test********
+2021-03-08 12:49:42,661 - INFO - ********Verifying Login test********
+2021-03-08 12:49:51,822 - INFO - ******** Login Test passed ********
+2021-03-08 12:49:51,822 - INFO - ******** Login Test passed ********
+2021-03-08 12:49:51,822 - INFO - ******** Login Test passed ********
+2021-03-08 12:49:51,822 - INFO - ******** Login Test passed ********
+2021-03-08 12:49:51,822 - INFO - ******** Login Test passed ********
+2021-03-08 12:49:53,044 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:49:53,044 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:49:53,044 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:49:53,044 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:49:53,044 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:50:11,878 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:50:11,878 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:50:11,878 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:50:11,878 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:50:11,878 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:50:13,114 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:50:13,114 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:50:13,114 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:50:13,114 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:50:13,114 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:50:13,116 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:50:13,116 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:50:13,116 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:50:13,116 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:50:13,116 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:50:28,909 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:50:28,909 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:50:28,909 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:50:28,909 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:50:28,909 - INFO - ******** CreateNationality Test failed ********
+2021-03-08 12:50:30,210 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:50:30,210 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:50:30,210 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:50:30,210 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:50:30,210 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:50:39,507 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:50:39,507 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:50:39,507 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:50:39,507 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:50:39,507 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:50:40,796 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:50:40,796 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:50:40,796 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:50:40,796 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:50:40,796 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:50:40,797 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:50:40,797 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:50:40,797 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:50:40,797 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:50:40,797 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:51:08,122 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 12:51:08,122 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 12:51:08,122 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 12:51:08,122 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 12:51:08,122 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 12:56:55,650 - INFO - ********Test_001_Login********
+2021-03-08 12:56:55,650 - INFO - ********Test_001_Login********
+2021-03-08 12:56:55,650 - INFO - ********Test_001_Login********
+2021-03-08 12:56:55,650 - INFO - ********Test_001_Login********
+2021-03-08 12:56:55,650 - INFO - ********Test_001_Login********
+2021-03-08 12:56:55,652 - INFO - ********Verifying Login test********
+2021-03-08 12:56:55,652 - INFO - ********Verifying Login test********
+2021-03-08 12:56:55,652 - INFO - ********Verifying Login test********
+2021-03-08 12:56:55,652 - INFO - ********Verifying Login test********
+2021-03-08 12:56:55,652 - INFO - ********Verifying Login test********
+2021-03-08 12:57:03,215 - INFO - ******** Login Test passed ********
+2021-03-08 12:57:03,215 - INFO - ******** Login Test passed ********
+2021-03-08 12:57:03,215 - INFO - ******** Login Test passed ********
+2021-03-08 12:57:03,215 - INFO - ******** Login Test passed ********
+2021-03-08 12:57:03,215 - INFO - ******** Login Test passed ********
+2021-03-08 12:57:04,318 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:57:04,318 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:57:04,318 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:57:04,318 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:57:04,318 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 12:57:22,603 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:57:22,603 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:57:22,603 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:57:22,603 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:57:22,603 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 12:57:23,780 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:57:23,780 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:57:23,780 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:57:23,780 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:57:23,780 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 12:57:23,780 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:57:23,780 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:57:23,780 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:57:23,780 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:57:23,780 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 12:57:39,611 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 12:57:39,611 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 12:57:39,611 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 12:57:39,611 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 12:57:39,611 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 12:57:40,693 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:57:40,693 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:57:40,693 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:57:40,693 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:57:40,693 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 12:58:08,333 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:58:08,333 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:58:08,333 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:58:08,333 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:58:08,333 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 12:58:09,506 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:58:09,506 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:58:09,506 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:58:09,506 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:58:09,506 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 12:58:09,507 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:58:09,507 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:58:09,507 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:58:09,507 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:58:09,507 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 12:58:39,797 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 12:58:39,797 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 12:58:39,797 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 12:58:39,797 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 12:58:39,797 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:00:46,877 - INFO - ********Test_001_Login********
+2021-03-08 13:00:46,877 - INFO - ********Test_001_Login********
+2021-03-08 13:00:46,877 - INFO - ********Test_001_Login********
+2021-03-08 13:00:46,877 - INFO - ********Test_001_Login********
+2021-03-08 13:00:46,877 - INFO - ********Test_001_Login********
+2021-03-08 13:00:46,879 - INFO - ********Verifying Login test********
+2021-03-08 13:00:46,879 - INFO - ********Verifying Login test********
+2021-03-08 13:00:46,879 - INFO - ********Verifying Login test********
+2021-03-08 13:00:46,879 - INFO - ********Verifying Login test********
+2021-03-08 13:00:46,879 - INFO - ********Verifying Login test********
+2021-03-08 13:00:52,812 - INFO - ******** Login Test passed ********
+2021-03-08 13:00:52,812 - INFO - ******** Login Test passed ********
+2021-03-08 13:00:52,812 - INFO - ******** Login Test passed ********
+2021-03-08 13:00:52,812 - INFO - ******** Login Test passed ********
+2021-03-08 13:00:52,812 - INFO - ******** Login Test passed ********
+2021-03-08 13:00:53,957 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:00:53,957 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:00:53,957 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:00:53,957 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:00:53,957 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:01:09,951 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:01:09,951 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:01:09,951 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:01:09,951 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:01:09,951 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:01:11,144 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:01:11,144 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:01:11,144 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:01:11,144 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:01:11,144 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:01:11,145 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:01:11,145 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:01:11,145 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:01:11,145 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:01:11,145 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:01:27,019 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:01:27,019 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:01:27,019 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:01:27,019 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:01:27,019 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:01:28,178 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:01:28,178 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:01:28,178 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:01:28,178 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:01:28,178 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:01:35,559 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:01:35,559 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:01:35,559 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:01:35,559 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:01:35,559 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:01:36,896 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:01:36,896 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:01:36,896 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:01:36,896 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:01:36,896 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:01:36,897 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:01:36,897 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:01:36,897 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:01:36,897 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:01:36,897 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:04:48,952 - INFO - ********Test_001_Login********
+2021-03-08 13:04:48,952 - INFO - ********Test_001_Login********
+2021-03-08 13:04:48,952 - INFO - ********Test_001_Login********
+2021-03-08 13:04:48,952 - INFO - ********Test_001_Login********
+2021-03-08 13:04:48,952 - INFO - ********Test_001_Login********
+2021-03-08 13:04:48,953 - INFO - ********Verifying Login test********
+2021-03-08 13:04:48,953 - INFO - ********Verifying Login test********
+2021-03-08 13:04:48,953 - INFO - ********Verifying Login test********
+2021-03-08 13:04:48,953 - INFO - ********Verifying Login test********
+2021-03-08 13:04:48,953 - INFO - ********Verifying Login test********
+2021-03-08 13:04:54,347 - INFO - ******** Login Test passed ********
+2021-03-08 13:04:54,347 - INFO - ******** Login Test passed ********
+2021-03-08 13:04:54,347 - INFO - ******** Login Test passed ********
+2021-03-08 13:04:54,347 - INFO - ******** Login Test passed ********
+2021-03-08 13:04:54,347 - INFO - ******** Login Test passed ********
+2021-03-08 13:04:55,544 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:04:55,544 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:04:55,544 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:04:55,544 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:04:55,544 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:05:12,837 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:05:12,837 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:05:12,837 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:05:12,837 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:05:12,837 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:05:14,111 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:05:14,111 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:05:14,111 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:05:14,111 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:05:14,111 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:05:14,112 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:05:14,112 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:05:14,112 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:05:14,112 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:05:14,112 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:05:22,952 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:05:22,952 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:05:22,952 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:05:22,952 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:05:22,952 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:05:28,734 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:05:28,734 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:05:28,734 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:05:28,734 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:05:28,734 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:05:28,735 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:05:28,735 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:05:28,735 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:05:28,735 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:05:28,735 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:07:28,241 - INFO - ********Test_001_Login********
+2021-03-08 13:07:28,241 - INFO - ********Test_001_Login********
+2021-03-08 13:07:28,241 - INFO - ********Test_001_Login********
+2021-03-08 13:07:28,241 - INFO - ********Test_001_Login********
+2021-03-08 13:07:28,241 - INFO - ********Test_001_Login********
+2021-03-08 13:07:28,242 - INFO - ********Verifying Login test********
+2021-03-08 13:07:28,242 - INFO - ********Verifying Login test********
+2021-03-08 13:07:28,242 - INFO - ********Verifying Login test********
+2021-03-08 13:07:28,242 - INFO - ********Verifying Login test********
+2021-03-08 13:07:28,242 - INFO - ********Verifying Login test********
+2021-03-08 13:07:34,145 - INFO - ******** Login Test passed ********
+2021-03-08 13:07:34,145 - INFO - ******** Login Test passed ********
+2021-03-08 13:07:34,145 - INFO - ******** Login Test passed ********
+2021-03-08 13:07:34,145 - INFO - ******** Login Test passed ********
+2021-03-08 13:07:34,145 - INFO - ******** Login Test passed ********
+2021-03-08 13:07:35,237 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:07:35,237 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:07:35,237 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:07:35,237 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:07:35,237 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:07:52,494 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:07:52,494 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:07:52,494 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:07:52,494 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:07:52,494 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:07:53,659 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:07:53,659 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:07:53,659 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:07:53,659 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:07:53,659 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:07:53,660 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:07:53,660 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:07:53,660 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:07:53,660 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:07:53,660 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:08:02,202 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:08:02,202 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:08:02,202 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:08:02,202 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:08:02,202 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:08:08,294 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:08:08,294 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:08:08,294 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:08:08,294 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:08:08,294 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:08:08,295 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:08:08,295 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:08:08,295 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:08:08,295 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:08:08,295 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:09:00,037 - INFO - ********Test_001_Login********
+2021-03-08 13:09:00,037 - INFO - ********Test_001_Login********
+2021-03-08 13:09:00,037 - INFO - ********Test_001_Login********
+2021-03-08 13:09:00,037 - INFO - ********Test_001_Login********
+2021-03-08 13:09:00,037 - INFO - ********Test_001_Login********
+2021-03-08 13:09:00,039 - INFO - ********Verifying Login test********
+2021-03-08 13:09:00,039 - INFO - ********Verifying Login test********
+2021-03-08 13:09:00,039 - INFO - ********Verifying Login test********
+2021-03-08 13:09:00,039 - INFO - ********Verifying Login test********
+2021-03-08 13:09:00,039 - INFO - ********Verifying Login test********
+2021-03-08 13:09:10,496 - INFO - ******** Login Test passed ********
+2021-03-08 13:09:10,496 - INFO - ******** Login Test passed ********
+2021-03-08 13:09:10,496 - INFO - ******** Login Test passed ********
+2021-03-08 13:09:10,496 - INFO - ******** Login Test passed ********
+2021-03-08 13:09:10,496 - INFO - ******** Login Test passed ********
+2021-03-08 13:09:11,649 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:09:11,649 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:09:11,649 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:09:11,649 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:09:11,649 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:09:38,941 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:09:38,941 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:09:38,941 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:09:38,941 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:09:38,941 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:09:40,144 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:09:40,144 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:09:40,144 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:09:40,144 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:09:40,144 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:09:40,144 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:09:40,144 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:09:40,144 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:09:40,144 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:09:40,144 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:09:59,332 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:09:59,332 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:09:59,332 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:09:59,332 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:09:59,332 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:10:10,135 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:10:10,135 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:10:10,135 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:10:10,135 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:10:10,135 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:10:11,386 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:10:11,386 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:10:11,386 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:10:11,386 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:10:11,386 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:10:11,387 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:10:11,387 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:10:11,387 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:10:11,387 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:10:11,387 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:10:41,095 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:10:41,095 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:10:41,095 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:10:41,095 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:10:41,095 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:12:04,896 - INFO - ********Test_001_Login********
+2021-03-08 13:12:04,896 - INFO - ********Test_001_Login********
+2021-03-08 13:12:04,896 - INFO - ********Test_001_Login********
+2021-03-08 13:12:04,896 - INFO - ********Test_001_Login********
+2021-03-08 13:12:04,896 - INFO - ********Test_001_Login********
+2021-03-08 13:12:04,898 - INFO - ********Verifying Login test********
+2021-03-08 13:12:04,898 - INFO - ********Verifying Login test********
+2021-03-08 13:12:04,898 - INFO - ********Verifying Login test********
+2021-03-08 13:12:04,898 - INFO - ********Verifying Login test********
+2021-03-08 13:12:04,898 - INFO - ********Verifying Login test********
+2021-03-08 13:12:12,987 - INFO - ******** Login Test passed ********
+2021-03-08 13:12:12,987 - INFO - ******** Login Test passed ********
+2021-03-08 13:12:12,987 - INFO - ******** Login Test passed ********
+2021-03-08 13:12:12,987 - INFO - ******** Login Test passed ********
+2021-03-08 13:12:12,987 - INFO - ******** Login Test passed ********
+2021-03-08 13:12:14,081 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:12:14,081 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:12:14,081 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:12:14,081 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:12:14,081 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:12:36,268 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:12:36,268 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:12:36,268 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:12:36,268 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:12:36,268 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:12:37,433 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:12:37,433 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:12:37,433 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:12:37,433 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:12:37,433 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:12:37,435 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:12:37,435 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:12:37,435 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:12:37,435 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:12:37,435 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:12:52,231 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:12:52,231 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:12:52,231 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:12:52,231 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:12:52,231 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:13:35,530 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:13:35,530 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:13:35,530 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:13:35,530 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:13:35,530 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:13:36,706 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:13:36,706 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:13:36,706 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:13:36,706 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:13:36,706 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:13:36,708 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:13:36,708 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:13:36,708 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:13:36,708 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:13:36,708 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:13:59,147 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:13:59,147 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:13:59,147 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:13:59,147 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:13:59,147 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:16:00,562 - INFO - ********Test_001_Login********
+2021-03-08 13:16:00,562 - INFO - ********Test_001_Login********
+2021-03-08 13:16:00,562 - INFO - ********Test_001_Login********
+2021-03-08 13:16:00,562 - INFO - ********Test_001_Login********
+2021-03-08 13:16:00,562 - INFO - ********Test_001_Login********
+2021-03-08 13:16:00,564 - INFO - ********Verifying Login test********
+2021-03-08 13:16:00,564 - INFO - ********Verifying Login test********
+2021-03-08 13:16:00,564 - INFO - ********Verifying Login test********
+2021-03-08 13:16:00,564 - INFO - ********Verifying Login test********
+2021-03-08 13:16:00,564 - INFO - ********Verifying Login test********
+2021-03-08 13:16:09,907 - INFO - ******** Login Test passed ********
+2021-03-08 13:16:09,907 - INFO - ******** Login Test passed ********
+2021-03-08 13:16:09,907 - INFO - ******** Login Test passed ********
+2021-03-08 13:16:09,907 - INFO - ******** Login Test passed ********
+2021-03-08 13:16:09,907 - INFO - ******** Login Test passed ********
+2021-03-08 13:16:11,000 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:16:11,000 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:16:11,000 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:16:11,000 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:16:11,000 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:16:38,983 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:16:38,983 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:16:38,983 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:16:38,983 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:16:38,983 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:16:40,340 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:16:40,340 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:16:40,340 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:16:40,340 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:16:40,340 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:16:40,341 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:16:40,341 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:16:40,341 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:16:40,341 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:16:40,341 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:17:02,649 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:17:02,649 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:17:02,649 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:17:02,649 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:17:02,649 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:17:03,817 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:17:03,817 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:17:03,817 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:17:03,817 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:17:03,817 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:17:13,199 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:17:13,199 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:17:13,199 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:17:13,199 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:17:13,199 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:17:14,452 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:17:14,452 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:17:14,452 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:17:14,452 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:17:14,452 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:17:14,452 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:17:14,452 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:17:14,452 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:17:14,452 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:17:14,452 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:17:39,338 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:17:39,338 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:17:39,338 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:17:39,338 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:17:39,338 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:42:55,371 - INFO - ********Test_001_Login********
+2021-03-08 13:42:55,371 - INFO - ********Test_001_Login********
+2021-03-08 13:42:55,371 - INFO - ********Test_001_Login********
+2021-03-08 13:42:55,371 - INFO - ********Test_001_Login********
+2021-03-08 13:42:55,371 - INFO - ********Test_001_Login********
+2021-03-08 13:42:55,371 - INFO - ********Test_001_Login********
+2021-03-08 13:42:55,374 - INFO - ********Verifying Login test********
+2021-03-08 13:42:55,374 - INFO - ********Verifying Login test********
+2021-03-08 13:42:55,374 - INFO - ********Verifying Login test********
+2021-03-08 13:42:55,374 - INFO - ********Verifying Login test********
+2021-03-08 13:42:55,374 - INFO - ********Verifying Login test********
+2021-03-08 13:42:55,374 - INFO - ********Verifying Login test********
+2021-03-08 13:43:02,350 - INFO - ******** Login Test passed ********
+2021-03-08 13:43:02,350 - INFO - ******** Login Test passed ********
+2021-03-08 13:43:02,350 - INFO - ******** Login Test passed ********
+2021-03-08 13:43:02,350 - INFO - ******** Login Test passed ********
+2021-03-08 13:43:02,350 - INFO - ******** Login Test passed ********
+2021-03-08 13:43:02,350 - INFO - ******** Login Test passed ********
+2021-03-08 13:43:03,501 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:43:03,501 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:43:03,501 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:43:03,501 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:43:03,501 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:43:03,501 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:43:23,458 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:43:23,458 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:43:23,458 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:43:23,458 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:43:23,458 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:43:23,458 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:43:24,753 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:43:24,753 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:43:24,753 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:43:24,753 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:43:24,753 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:43:24,753 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:43:24,753 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:43:24,753 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:43:24,753 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:43:24,753 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:43:24,753 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:43:24,753 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:43:42,040 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:43:42,040 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:43:42,040 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:43:42,040 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:43:42,040 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:43:42,040 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:43:43,201 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:43:43,201 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:43:43,201 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:43:43,201 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:43:43,201 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:43:43,201 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:43:52,937 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:43:52,937 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:43:52,937 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:43:52,937 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:43:52,937 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:43:52,937 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:43:54,132 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:43:54,132 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:43:54,132 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:43:54,132 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:43:54,132 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:43:54,132 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:43:54,133 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:43:54,133 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:43:54,133 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:43:54,133 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:43:54,133 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:43:54,133 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:44:13,619 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:44:13,619 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:44:13,619 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:44:13,619 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:44:13,619 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:44:13,619 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:44:14,718 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:44:14,718 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:44:14,718 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:44:14,718 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:44:14,718 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:44:14,718 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:44:14,719 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:44:14,719 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:44:14,719 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:44:14,719 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:44:14,719 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:44:14,719 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:47:19,006 - INFO - ********Test_001_Login********
+2021-03-08 13:47:19,006 - INFO - ********Test_001_Login********
+2021-03-08 13:47:19,006 - INFO - ********Test_001_Login********
+2021-03-08 13:47:19,006 - INFO - ********Test_001_Login********
+2021-03-08 13:47:19,006 - INFO - ********Test_001_Login********
+2021-03-08 13:47:19,006 - INFO - ********Test_001_Login********
+2021-03-08 13:47:19,009 - INFO - ********Verifying Login test********
+2021-03-08 13:47:19,009 - INFO - ********Verifying Login test********
+2021-03-08 13:47:19,009 - INFO - ********Verifying Login test********
+2021-03-08 13:47:19,009 - INFO - ********Verifying Login test********
+2021-03-08 13:47:19,009 - INFO - ********Verifying Login test********
+2021-03-08 13:47:19,009 - INFO - ********Verifying Login test********
+2021-03-08 13:47:27,866 - INFO - ******** Login Test passed ********
+2021-03-08 13:47:27,866 - INFO - ******** Login Test passed ********
+2021-03-08 13:47:27,866 - INFO - ******** Login Test passed ********
+2021-03-08 13:47:27,866 - INFO - ******** Login Test passed ********
+2021-03-08 13:47:27,866 - INFO - ******** Login Test passed ********
+2021-03-08 13:47:27,866 - INFO - ******** Login Test passed ********
+2021-03-08 13:47:29,160 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:47:29,160 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:47:29,160 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:47:29,160 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:47:29,160 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:47:29,160 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:47:46,578 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:47:46,578 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:47:46,578 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:47:46,578 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:47:46,578 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:47:46,578 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:47:47,834 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:47:47,834 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:47:47,834 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:47:47,834 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:47:47,834 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:47:47,834 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:47:47,837 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:47:47,837 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:47:47,837 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:47:47,837 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:47:47,837 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:47:47,837 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:48:07,436 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:48:07,436 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:48:07,436 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:48:07,436 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:48:07,436 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:48:07,436 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:48:08,717 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:48:08,717 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:48:08,717 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:48:08,717 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:48:08,717 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:48:08,717 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:48:17,197 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:48:17,197 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:48:17,197 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:48:17,197 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:48:17,197 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:48:17,197 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:48:18,444 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:48:18,444 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:48:18,444 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:48:18,444 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:48:18,444 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:48:18,444 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:48:18,444 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:48:18,444 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:48:18,444 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:48:18,444 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:48:18,444 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:48:18,444 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:48:38,030 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:48:38,030 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:48:38,030 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:48:38,030 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:48:38,030 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:48:38,030 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:48:39,175 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:48:39,175 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:48:39,175 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:48:39,175 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:48:39,175 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:48:39,175 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:48:39,175 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:48:39,175 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:48:39,175 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:48:39,175 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:48:39,175 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:48:39,175 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:50:08,660 - INFO - ********Test_001_Login********
+2021-03-08 13:50:08,660 - INFO - ********Test_001_Login********
+2021-03-08 13:50:08,660 - INFO - ********Test_001_Login********
+2021-03-08 13:50:08,660 - INFO - ********Test_001_Login********
+2021-03-08 13:50:08,660 - INFO - ********Test_001_Login********
+2021-03-08 13:50:08,660 - INFO - ********Test_001_Login********
+2021-03-08 13:50:08,661 - INFO - ********Verifying Login test********
+2021-03-08 13:50:08,661 - INFO - ********Verifying Login test********
+2021-03-08 13:50:08,661 - INFO - ********Verifying Login test********
+2021-03-08 13:50:08,661 - INFO - ********Verifying Login test********
+2021-03-08 13:50:08,661 - INFO - ********Verifying Login test********
+2021-03-08 13:50:08,661 - INFO - ********Verifying Login test********
+2021-03-08 13:50:15,217 - INFO - ******** Login Test passed ********
+2021-03-08 13:50:15,217 - INFO - ******** Login Test passed ********
+2021-03-08 13:50:15,217 - INFO - ******** Login Test passed ********
+2021-03-08 13:50:15,217 - INFO - ******** Login Test passed ********
+2021-03-08 13:50:15,217 - INFO - ******** Login Test passed ********
+2021-03-08 13:50:15,217 - INFO - ******** Login Test passed ********
+2021-03-08 13:50:16,470 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:50:16,470 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:50:16,470 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:50:16,470 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:50:16,470 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:50:16,470 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:50:35,242 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:50:35,242 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:50:35,242 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:50:35,242 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:50:35,242 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:50:35,242 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:50:36,525 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:50:36,525 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:50:36,525 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:50:36,525 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:50:36,525 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:50:36,525 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:50:36,526 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:50:36,526 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:50:36,526 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:50:36,526 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:50:36,526 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:50:36,526 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:50:55,840 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:50:55,840 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:50:55,840 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:50:55,840 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:50:55,840 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:50:55,840 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:50:57,091 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:50:57,091 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:50:57,091 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:50:57,091 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:50:57,091 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:50:57,091 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:51:08,182 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:51:08,182 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:51:08,182 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:51:08,182 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:51:08,182 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:51:08,182 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:51:09,437 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:51:09,437 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:51:09,437 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:51:09,437 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:51:09,437 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:51:09,437 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:51:09,437 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:51:09,437 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:51:09,437 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:51:09,437 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:51:09,437 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:51:09,437 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:51:29,696 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:51:29,696 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:51:29,696 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:51:29,696 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:51:29,696 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:51:29,696 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:51:30,908 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:51:30,908 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:51:30,908 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:51:30,908 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:51:30,908 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:51:30,908 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:51:30,908 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:51:30,908 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:51:30,908 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:51:30,908 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:51:30,908 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:51:30,908 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:51:43,177 - INFO - ******** Delete Nationality Test failed ********
+2021-03-08 13:51:43,177 - INFO - ******** Delete Nationality Test failed ********
+2021-03-08 13:51:43,177 - INFO - ******** Delete Nationality Test failed ********
+2021-03-08 13:51:43,177 - INFO - ******** Delete Nationality Test failed ********
+2021-03-08 13:51:43,177 - INFO - ******** Delete Nationality Test failed ********
+2021-03-08 13:51:43,177 - INFO - ******** Delete Nationality Test failed ********
+2021-03-08 13:52:30,526 - INFO - ********Test_001_Login********
+2021-03-08 13:52:30,526 - INFO - ********Test_001_Login********
+2021-03-08 13:52:30,526 - INFO - ********Test_001_Login********
+2021-03-08 13:52:30,526 - INFO - ********Test_001_Login********
+2021-03-08 13:52:30,526 - INFO - ********Test_001_Login********
+2021-03-08 13:52:30,526 - INFO - ********Test_001_Login********
+2021-03-08 13:52:30,528 - INFO - ********Verifying Login test********
+2021-03-08 13:52:30,528 - INFO - ********Verifying Login test********
+2021-03-08 13:52:30,528 - INFO - ********Verifying Login test********
+2021-03-08 13:52:30,528 - INFO - ********Verifying Login test********
+2021-03-08 13:52:30,528 - INFO - ********Verifying Login test********
+2021-03-08 13:52:30,528 - INFO - ********Verifying Login test********
+2021-03-08 13:52:38,083 - INFO - ******** Login Test passed ********
+2021-03-08 13:52:38,083 - INFO - ******** Login Test passed ********
+2021-03-08 13:52:38,083 - INFO - ******** Login Test passed ********
+2021-03-08 13:52:38,083 - INFO - ******** Login Test passed ********
+2021-03-08 13:52:38,083 - INFO - ******** Login Test passed ********
+2021-03-08 13:52:38,083 - INFO - ******** Login Test passed ********
+2021-03-08 13:52:39,278 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:52:39,278 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:52:39,278 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:52:39,278 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:52:39,278 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:52:39,278 - INFO - ******** Test_002_NavigateToNationalities ********
+2021-03-08 13:52:57,319 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:52:57,319 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:52:57,319 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:52:57,319 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:52:57,319 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:52:57,319 - INFO - ******** NavigateToNationalities Test passed ********
+2021-03-08 13:52:58,545 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:52:58,545 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:52:58,545 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:52:58,545 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:52:58,545 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:52:58,545 - INFO - ******** Test_003_CreateNationality ********
+2021-03-08 13:52:58,545 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:52:58,545 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:52:58,545 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:52:58,545 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:52:58,545 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:52:58,545 - INFO - ******** Verifying Creating Nationality********
+2021-03-08 13:53:14,735 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:53:14,735 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:53:14,735 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:53:14,735 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:53:14,735 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:53:14,735 - INFO - ******** CreateNationality Test passed ********
+2021-03-08 13:53:15,881 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:53:15,881 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:53:15,881 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:53:15,881 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:53:15,881 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:53:15,881 - INFO - ******** Test_004_ViewAddedNationality ********
+2021-03-08 13:53:23,508 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:53:23,508 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:53:23,508 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:53:23,508 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:53:23,508 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:53:23,508 - INFO - ******** View Added Nationality Test passed ********
+2021-03-08 13:53:24,876 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:53:24,876 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:53:24,876 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:53:24,876 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:53:24,876 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:53:24,876 - INFO - ******** Test_005_EditNationality ********
+2021-03-08 13:53:24,877 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:53:24,877 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:53:24,877 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:53:24,877 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:53:24,877 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:53:24,877 - INFO - ******** Verifying Edit Nationality********
+2021-03-08 13:53:43,733 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:53:43,733 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:53:43,733 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:53:43,733 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:53:43,733 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:53:43,733 - INFO - ******** Edit Nationality Test passed ********
+2021-03-08 13:53:44,918 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:53:44,918 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:53:44,918 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:53:44,918 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:53:44,918 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:53:44,918 - INFO - ******** Test_006_DeleteNationality ********
+2021-03-08 13:53:44,918 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:53:44,918 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:53:44,918 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:53:44,918 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:53:44,918 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:53:44,918 - INFO - ******** Verifying Delete Nationality********
+2021-03-08 13:54:02,589 - INFO - ******** Delete Nationality Test passed ********
+2021-03-08 13:54:02,589 - INFO - ******** Delete Nationality Test passed ********
+2021-03-08 13:54:02,589 - INFO - ******** Delete Nationality Test passed ********
+2021-03-08 13:54:02,589 - INFO - ******** Delete Nationality Test passed ********
+2021-03-08 13:54:02,589 - INFO - ******** Delete Nationality Test passed ********
+2021-03-08 13:54:02,589 - INFO - ******** Delete Nationality Test passed ********
